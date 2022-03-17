@@ -43,6 +43,7 @@ require_once 'povezava.php';
 	<ul id="nav" class="nav navbar-nav">
 	<?php
 	echo '<li><a href="stream.php">Livestream</a></li>';
+	echo '<li><a href="arhiv.php">Igre</a></li>';
 	if(isset($_SESSION['prijavljen']) && $_SESSION['prijavljen'] == true)
 	{
 	$u_id = $_SESSION['id_u'];

@@ -253,8 +253,6 @@ include('povezava.php');
 		<!-- Contact form validation -->
 		<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.js"></script>
 		<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js"></script>
-		<!-- Google Map -->
-        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"></script>
 		<!-- jquery easing -->
         <script src="js/jquery.easing.min.js"></script>
 		<!-- jquery easing -->
